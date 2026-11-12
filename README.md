@@ -7,6 +7,8 @@
 A responsive product landing page inspired by Bang & Olufsen's world of sound and design.
 Built with HTML, SCSS, and vanilla JavaScript, with scroll animations powered by AOS.
 
+**[Live Demo](https://ivam2280.github.io/bang-olufsen-landing-page/)**
+
 **HTML5 · SCSS · JavaScript · AOS · Parcel**
 
 [Overview](#overview) · [Screenshots](#screenshots) · [Getting started](#getting-started) · [GitHub Pages](#github-pages) · [Project structure](#project-structure)
